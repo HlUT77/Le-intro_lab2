@@ -1,2 +1,7 @@
-# le-intro_lab2
-# le-intro_lab2
+public class HaExtraCreditLab {
+  public static void main(String[] args)
+  {
+		System.out.println("Hello word, this is Ha!");
+	}
+	
+}
